@@ -8,7 +8,7 @@ Built on the IEEE-CIS Fraud Detection Dataset, this project simulates a producti
 
 ---
 
-# 📌 Project Highlights
+#  Project Highlights
 
 ✅ Real-time Fraud Detection
 
@@ -28,7 +28,7 @@ Built on the IEEE-CIS Fraud Detection Dataset, this project simulates a producti
 
 ---
 
-# 📷 Project Demo
+# Project Demo
 
 ## Dashboard
 
@@ -48,7 +48,7 @@ Built on the IEEE-CIS Fraud Detection Dataset, this project simulates a producti
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Financial fraud causes billions of dollars in losses every year.
 
@@ -63,7 +63,7 @@ The system helps financial institutions:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Transaction Data
@@ -89,7 +89,7 @@ Fraud Prediction API
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 | Category | Technologies |
 |-----------|-------------|
@@ -105,7 +105,7 @@ Fraud Prediction API
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 This project uses the IEEE-CIS Fraud Detection Dataset from Kaggle.
 
@@ -157,7 +157,7 @@ real-time-fraud-detection-system/
 
 ---
 
-# ⚙️ Machine Learning Pipeline
+#  Machine Learning Pipeline
 
 ## Data Preprocessing
 
@@ -184,7 +184,7 @@ real-time-fraud-detection-system/
 | Ensemble Model | Final fraud prediction |
 
 
-# 🚀 API Endpoint
+# API Endpoint
 
 ## Predict Transaction
 
@@ -218,7 +218,7 @@ POST /predict
 
 ---
 
-# 💾 Database Integration
+# Database Integration
 
 All transactions and predictions are automatically stored in SQL Server for:
 
@@ -229,7 +229,7 @@ All transactions and predictions are automatically stored in SQL Server for:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The Streamlit Dashboard provides:
 
@@ -241,7 +241,7 @@ The Streamlit Dashboard provides:
 
 ---
 
-# 🔥 Running the Project
+#  Running the Project
 
 ## Clone Repository
 
@@ -313,7 +313,7 @@ http://localhost:8501
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - SHAP Explainable AI
 - Model Drift Detection
@@ -326,7 +326,7 @@ http://localhost:8501
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## Mehtab Ansari
 
@@ -339,7 +339,7 @@ AI Engineer | Machine Learning Engineer | Data Scientist
 
 ---
 
-# ⭐ Why This Project Matters
+#  Why This Project Matters
 
 This project demonstrates expertise across the complete AI development lifecycle:
 
