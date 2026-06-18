@@ -1,15 +1,17 @@
 import pyodbc
 
-server = 'MEHTAB_ANSARI\\MSSQL'   
+server = 'host.docker.internal,1433'
 database = 'FraudDetectionDB'
+username = 'sa'
+password = 'Mehtab@123'
 
 conn = pyodbc.connect(
     f'DRIVER={{ODBC Driver 17 for SQL Server}};'
     f'SERVER={server};'
     f'DATABASE={database};'
-    f'Trusted_Connection=yes;'
+    f'UID={username};'
+    f'PWD={password};'
+    f'TrustServerCertificate=yes;'
 )
-
-cursor = conn.cursor()
 
 print("Connected successfully!")
